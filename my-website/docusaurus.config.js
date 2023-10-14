@@ -11,18 +11,16 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://jacksonrobert101.github.io/',
+  url: 'http://github.com/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
-  projectName: 'jacksonrobert101.github.io',
-  organizationName: 'jackrobert101',
-  trailingSlash: false,
+  baseUrl: '/Integrity-Documentation/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-/*   organizationName: 'jacksonrobert101', // Usually your GitHub org/user name.
-  projectName: 'Integrity-Documentation', // Usually your repo name. */
+  organizationName: 'jacksonrobert101', // Usually your GitHub org/user name.
+  projectName: 'Integrity-Documentation', // Usually your repo name.
+  deploymentBranch: "gh-pages",
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
